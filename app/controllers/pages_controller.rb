@@ -7,4 +7,8 @@ class PagesController < ApplicationController
   def about
     # render 'about.html.erb'
   end
+
+  def ysun3
+    # render 'ysun3.html.erb
+  end
 end
